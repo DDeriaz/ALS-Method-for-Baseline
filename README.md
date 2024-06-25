@@ -5,7 +5,7 @@ date: "2024-06-24"
 output:
   md_document:
     variant: markdown_github
-    preserve_yaml: false
+    preserve_yaml: true
     pandoc_args: ["--webtex"]
 ---
 
