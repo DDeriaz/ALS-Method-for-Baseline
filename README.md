@@ -1,13 +1,3 @@
----
-title: "ALS Method for baseline"
-author: "Denis Deriaz"
-date: "2024-06-24"
-output:
-  md_document:
-    variant: markdown_github
-    preserve_yaml: false
-    pandoc_args: ["--webtex"]
----
 
 ## Introduction
 
